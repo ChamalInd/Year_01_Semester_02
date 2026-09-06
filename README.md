@@ -9,7 +9,7 @@
 
 ## 📖 Overview
 
-This repository is a centralized collection of all academic resources for **Year 01 Semester 01**. It is intended as a one-stop reference for revision, assignment reference, and interview / exam preparation.
+This repository is a centralized collection of all academic resources for **Year 01 Semester 02**. It is intended as a one-stop reference for revision, assignment reference, and interview / exam preparation.
 
 Contents are organized into three main sections:
 
@@ -23,13 +23,13 @@ Contents are organized into three main sections:
 
 ## 📚 Courses Covered
 
-| Code | Course | Materials Included |
-|---|---|---|
-| **SCS 1308** | Foundations of Algorithms |---|
-| **SCS 1309** | Database Management Systems |---|
-| **SCS 1310** | Object Oriented Modelling and Programming |---|
-| **SCS 1311** | Internet and Web Technologies |---|
-| **SCS 1312** | Operating System Concepts |---|
+| Code | Course |
+|---|---|
+| **SCS 1308** | Foundations of Algorithms |
+| **SCS 1309** | Database Management Systems |
+| **SCS 1310** | Object Oriented Modelling and Programming |
+| **SCS 1311** | Internet and Web Technologies |
+| **SCS 1312** | Operating System Concepts |
 
 ---
 
