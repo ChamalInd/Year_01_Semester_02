@@ -25,6 +25,7 @@ Contents are organized into three main sections:
 
 | Code | Course |
 |---|---|
+| **ENH 1303** | Aesthetic Studies |
 | **SCS 1308** | Foundations of Algorithms |
 | **SCS 1309** | Database Management Systems |
 | **SCS 1310** | Object Oriented Modelling and Programming |
