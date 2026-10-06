@@ -12,6 +12,10 @@ def movv(opr):
 	reg[opr[0]]=int(opr[1])
 	reg['pc'] += 1
 
+def add(opr):
+	reg['acc'] = reg[opr[0]] + reg[opr[1]]
+	reg['pc'] += 1
+
 def sub(opr):
 	reg['acc']=reg[opr[0]] - reg[opr[1]]
 	reg['pc'] += 1
