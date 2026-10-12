@@ -1,3 +1,7 @@
 .DS_Store
 2ndSem
 25000799*
+*.out
+*.aux
+*.log
+*.toc
