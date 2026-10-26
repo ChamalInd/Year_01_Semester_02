@@ -1,8 +1,8 @@
 0 movv sp 80
 1 movv r1 100
 2 movv r2 400
-3 push r1 
-4 call 20
+3 push r1   
+4 call 20    
 5 pop r1
 6 out r4
 7 push r2
