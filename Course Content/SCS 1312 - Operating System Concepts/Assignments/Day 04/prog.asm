@@ -17,6 +17,10 @@
 8 movv r1 0
 9 store 72 r1
 
+# process 0 - stack 50
+# process 1 - stack 60
+# kernel - stack 70
+
 # Start the first process
 10 movv sp 55
 11 jmp 37
@@ -39,6 +43,8 @@
 30 add r1 r2
 31 movv r2 2
 32 mod acc r2
+# i = 1
+# (i + 1) % 2 = 0;
 # next process
 33 store 72 acc
 34 movv r1 70
